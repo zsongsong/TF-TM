@@ -1,0 +1,14 @@
+name(myidnum) OR name(avg_impact) 
+name(avg_impact)  OR name(num_error)  OR name(myidnum) 
+name(avg_impact)  OR name(num_error) 
+
+/home/veins/src/omnetpp-5.6.2/bin:
+/usr/lib/ccache:
+/usr/local/bin:
+/usr/bin:/bin:
+/usr/local/games:
+/usr/games:
+/home/veins/bin:
+/home/veins/src/omnetpp/bin:
+/home/veins/src/sumo/bin:
+/home/veins/src/veins/bins
